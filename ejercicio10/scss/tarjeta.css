@@ -1,0 +1,50 @@
+.tarjeta {
+  width: 400px;
+  background-color: plum;
+}
+
+.tarjeta div {
+  width: 150px;
+}
+
+.tarjeta div p {
+  font-size: 20px;
+}
+
+.tarjeta .img {
+  width: 50px;
+  background-color: #000;
+}
+
+button {
+  color: rgba(55, 136, 212, 0.747);
+}
+
+button :hover {
+  background-color: sandybrown;
+}
+
+.opcion1 {
+  background-color: #0b2cbd;
+}
+
+.opcion1 .img {
+  background-color: #2fffee;
+}
+
+.opcion2 {
+  background-color: #bd610b;
+}
+
+.opcion2 .img {
+  background-color: #ff2f86;
+}
+
+.opcion3 {
+  background-color: #0bbd14;
+}
+
+.opcion3 .img {
+  background-color: #ff2fdc;
+}
+/*# sourceMappingURL=tarjeta.css.map */
